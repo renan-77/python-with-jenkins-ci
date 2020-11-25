@@ -11,4 +11,6 @@ def printhello():
 
 print("Michael")
 
+def printWord(word):
+    return word
 
