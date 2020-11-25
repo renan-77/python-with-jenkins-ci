@@ -1,0 +1,6 @@
+setup.py
+gitactions.egg-info/PKG-INFO
+gitactions.egg-info/SOURCES.txt
+gitactions.egg-info/dependency_links.txt
+gitactions.egg-info/requires.txt
+gitactions.egg-info/top_level.txt
