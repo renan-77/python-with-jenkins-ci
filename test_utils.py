@@ -6,7 +6,7 @@ def test_printhello():
 
 
 def test_printWord():
-    assert gitactions_trial.printWord("Potat") == "Potato"
+    assert gitactions_trial.printWord("Potato") == "Potato"
 
     # Can't use pytest here because the time will change every second so it will always fail. So
     # I added the python file to gitactions after running the pytest is passed. I can make the pytest work here
