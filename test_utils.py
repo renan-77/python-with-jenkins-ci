@@ -17,4 +17,4 @@ def test_printWord():
 def test_trial():
     now = datetime.datetime.now()
     test = ('Hello World', 'Current date and time is', now.strftime("%A, %d-%m-%Y : %H:%M"))
-    assert gitactions_trial.trial("Hello World", "Current date and time is", now) == test
+    assert gitactions_trial.trial("Hell World", "Current date and time is", now) == test

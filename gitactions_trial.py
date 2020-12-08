@@ -14,4 +14,4 @@ def trial(word, d, time):
     
     return word, d, t
 
-print(trial("Hello Worl", "Current date and time is", datetime.datetime.now()))
+print(trial("Hello World", "Current date and time is", datetime.datetime.now()))
