@@ -3,7 +3,7 @@ import datetime
 def printhello():
     return "Hello_world"
 
-def printWord(word):
+printWord(word):
     return word
 
 def trial(word, d, time):
